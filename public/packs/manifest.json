@@ -1,0 +1,20 @@
+{
+  "application.js": "/packs/js/application-cb1911d5cc10325d0f9e.js",
+  "application.js.map": "/packs/js/application-cb1911d5cc10325d0f9e.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-cb1911d5cc10325d0f9e.js"
+      ],
+      "js.map": [
+        "/packs/js/application-cb1911d5cc10325d0f9e.js.map"
+      ]
+    }
+  },
+  "media/images/ui-icons_444444_256x240.png": "/packs/media/images/ui-icons_444444_256x240-a4c733ec.png",
+  "media/images/ui-icons_555555_256x240.png": "/packs/media/images/ui-icons_555555_256x240-97136473.png",
+  "media/images/ui-icons_777620_256x240.png": "/packs/media/images/ui-icons_777620_256x240-208a2901.png",
+  "media/images/ui-icons_777777_256x240.png": "/packs/media/images/ui-icons_777777_256x240-73a1fd05.png",
+  "media/images/ui-icons_cc0000_256x240.png": "/packs/media/images/ui-icons_cc0000_256x240-0de3b517.png",
+  "media/images/ui-icons_ffffff_256x240.png": "/packs/media/images/ui-icons_ffffff_256x240-bf27228a.png"
+}
